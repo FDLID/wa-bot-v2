@@ -506,7 +506,7 @@ function kyun(seconds){
 const client = new WAConnection()
    client.on('qr', qr => {
    qrcode.generate(qr, { small: true })
-   console.log(color('[','white'),color('∆','red'),color(']','white'),color('QR code is ready, Scan now..','white'),color('FDLツ','red'),color('X','lime'),color('FxSx','red'))
+   console.log(color('[','white'),color('∆','red'),color(']','white'),color('QR code is ready, Scan now..','white'),color('FDL','red'))
 })
 
 client.on('credentials-updated', () => {
