@@ -21,7 +21,7 @@
 * Download And Install NodeJS [`Click Here`](https://nodejs.org/en/download)
 
 ```bash
-> https://github.com/FDLBOT/wa-bot-v2
+> git clone https://github.com/FDLBOT/wa-bot-v2
 > cd wa-bot-v2
 > npm i
 > node fdl.js / npm start
