@@ -3919,7 +3919,7 @@ client.on('group-participants-update', async (anu) => {
 					const reqXp  = 5000 * (Math.pow(2, getLevelingLevel(sender)) - 1)
 					const uangku = checkATMuser(sender)
                     wew = fs.readFileSync(`./src/logo.jpg`)
-                    FDL = `「 *BOT BOT* 」
+                    FDL = `「 *BOT INFO* 」
 ┌───────────────────
 ├ ❏ Name : ${client.user.name}
 ├ ❏ Browser : ${client.browserDescription[1]}
