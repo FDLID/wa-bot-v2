@@ -25,4 +25,4 @@
 > npm i
 > node fdl.js / npm start
 ```
-#### Made With ❤️ By : [`FDL`](https://youtube.com/FDLGANZ)
+#### Made With ❤️ By [`FDL`](https://youtube.com/FDLGANZ)
